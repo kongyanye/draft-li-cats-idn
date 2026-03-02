@@ -3,7 +3,7 @@ title: "A Framework of Intelligence Delivery Network (IDN) for Deep Learning Inf
 abbrev: "IDN"
 category: info
 
-docname: draft-wang-cats-idn-latest
+docname: draft-li-cats-idn-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -21,8 +21,8 @@ venue:
   type: "Working Group"
   mail: "cats@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/cats/"
-#   github: "kongyanye/draft-wang-cats-innetwork-infer"
-#   latest: "https://kongyanye.github.io/draft-wang-cats-innetwork-infer/draft-wang-cats-innetwork-infer.html"
+  github: "kongyanye/draft-li-cats-idn"
+  latest: "https://kongyanye.github.io/draft-li-cats-idn/draft-li-cats-idn.html"
 
 author:
  -
