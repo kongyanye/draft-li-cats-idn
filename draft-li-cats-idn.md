@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 title: "A Framework of Intelligence Delivery Network (IDN) for Deep Learning Inference"
 abbrev: "IDN"
 category: info
 
 docname: draft-wang-cats-idn-latest
+=======
+title: "TODO - Your title"
+abbrev: "TODO - Abbreviation"
+category: info
+
+docname: draft-li-cats-idn-latest
+>>>>>>> 62b6fc84c21c4f8ef2e79689e7ea05e88e0c83c7
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -21,6 +29,7 @@ venue:
   type: "Working Group"
   mail: "cats@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/cats/"
+<<<<<<< HEAD
 #   github: "kongyanye/draft-wang-cats-innetwork-infer"
 #   latest: "https://kongyanye.github.io/draft-wang-cats-innetwork-infer/draft-wang-cats-innetwork-infer.html"
 
@@ -44,6 +53,16 @@ author:
     fullname: "Mingwei Xu"
     organization: Tsinghua University
     email: "xumw@tsinghua.edu.cn"
+=======
+  github: "kongyanye/draft-li-cats-idn"
+  latest: "https://kongyanye.github.io/draft-li-cats-idn/draft-li-cats-idn.html"
+
+author:
+ -
+    fullname: "hanling"
+    organization: Your Organization Here
+    email: "a1026730005@gmail.com"
+>>>>>>> 62b6fc84c21c4f8ef2e79689e7ea05e88e0c83c7
 
 normative:
 
